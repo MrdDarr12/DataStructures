@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/martin/Downloads/MyDataStructures-master/MyQueue/MyQueue.csproj": {}
+  },
+  "projects": {
+    "/Users/martin/Downloads/MyDataStructures-master/MyLinkedListProj/MyLinkedListProj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/martin/Downloads/MyDataStructures-master/MyLinkedListProj/MyLinkedListProj.csproj",
+        "projectName": "MyLinkedListProj",
+        "projectPath": "/Users/martin/Downloads/MyDataStructures-master/MyLinkedListProj/MyLinkedListProj.csproj",
+        "packagesPath": "/Users/martin/.nuget/packages/",
+        "outputPath": "/Users/martin/Downloads/MyDataStructures-master/MyLinkedListProj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/martin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/martin/Downloads/MyDataStructures-master/MyQueue/MyQueue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/martin/Downloads/MyDataStructures-master/MyQueue/MyQueue.csproj",
+        "projectName": "MyQueue",
+        "projectPath": "/Users/martin/Downloads/MyDataStructures-master/MyQueue/MyQueue.csproj",
+        "packagesPath": "/Users/martin/.nuget/packages/",
+        "outputPath": "/Users/martin/Downloads/MyDataStructures-master/MyQueue/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/martin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/martin/Downloads/MyDataStructures-master/MyLinkedListProj/MyLinkedListProj.csproj": {
+                "projectPath": "/Users/martin/Downloads/MyDataStructures-master/MyLinkedListProj/MyLinkedListProj.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
